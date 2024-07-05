@@ -109,5 +109,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Check out the live demo [here](https://roomies-scribble.vercel.app/).
 
 ---
-
-Feel free to customize any sections further. If you have any additional information or changes, let me know!
